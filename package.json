@@ -1,0 +1,13 @@
+{
+  "name": "home-economics",
+  "version": "1.0.0",
+  "description": "Home Economics - Smart. Stylish. Sorted.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
